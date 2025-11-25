@@ -38,11 +38,13 @@ pip install cartopy
   <img src="./images/Dataset_multi.png" alt="SAGAINDisaster Dataset" width="48%" />
 </p>
 
-## 🤖 Model
+## 🤖 Methodology
 
 <p align="center">
   <img src="./images/Taskstatement.png" alt="Overview of ProbGLC approach" width="48%" />
 </p>
+
+**Figure 1**: ProbGLC consists of mainly four part: (1) Location Space with geographical coordinates (lat and long) of disaster-related imagery; (2) Generative Latent Space where the generative model is trained to learn a latent space for probabilistic geolocalization tasks; (3) Cross-view Location Space with the deterministic retrieval approach is trained to refine the location predictions; (4) Condition of disaster-related imagery embeddings and model hyperparameter.
 
 ### Training the model
 Download the MultiIAN and the SAGAINDisaster datasets and extract them into: ```plonk/plonk/data/```
