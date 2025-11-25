@@ -1,4 +1,6 @@
-# ProbGLC - Towards Generative Location Awareness for Disaster Response: A Probabilistic Cross-view Geolocalization Approach
+# ProbGLC
+
+### Towards Generative Location Awareness for Disaster Response: A Probabilistic Cross-view Geolocalization Approach
 
 In this paper, we propose **ProbGLC**, a **Prob**abilistic Cross-view **GeoLocali**zation approach 🧭 designed to enable generative location awareness ⚡ for rapid disaster response 🚑
 
@@ -36,7 +38,11 @@ pip install cartopy
   <img src="./images/Dataset_multi.png" alt="SAGAINDisaster Dataset" width="48%" />
 </p>
 
-## 🤖 Training
+## 🤖 Model
+
+<p align="center">
+  <img src="./images/Taskstatement.png" alt="Overview of ProbGLC approach" width="48%" />
+</p>
 
 ### Training the model
 Download the MultiIAN and the SAGAINDisaster datasets and extract them into: ```plonk/plonk/data/```
