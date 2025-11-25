@@ -30,7 +30,7 @@ pip install cartopy
 - **Google Drive** 🌐  
   👉 https://drive.google.com/file/d/1PVdwLKBsf9JDMnpHbVHA0DpzntfjpgC5/view?usp=sharing
 
-- **Baidu Netdisk 百度网盘** 🇨🇳  
+- **Baidu Netdisk - 百度网盘** 🌐  (**Password: 1111**)  
   👉 https://pan.baidu.com/s/1JrKY-2J4_So_6JDYVgNuLg?pwd=1111
 <p align="center">
   <img src="./images/Dataset_multi.png" alt="SAGAINDisaster Dataset" width="48%" />
