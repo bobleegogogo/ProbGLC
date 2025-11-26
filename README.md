@@ -4,6 +4,11 @@
 
 In this paper, we propose **ProbGLC**, a **Prob**abilistic Cross-view **GeoLocali**zation approach 🧭 designed to enable generative location awareness ⚡ for rapid disaster response 🚑
 
+<p align="center">
+  <img src="./images/ProbGLC_banner.png" alt="ProbGLC banner" width="60%" />
+</p>
+
+
 ## ⚙️ Installation
 
 From the github repository:
