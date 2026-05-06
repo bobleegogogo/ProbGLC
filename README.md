@@ -75,14 +75,14 @@ The trained checkpoints have to be placed in the root folder of the repository.
 ## 📚 Reference
 If you find our work useful in your research please consider citing the ProbGLC paper.
 ```
-@article{li2025proglc,
-     title={Towards Generative Location Awareness for Disaster Response: A Probabilistic Cross-view Geolocalization Approach},
-     author={Hao Li, Fabian Deuser, Wenping Yin, Steffen Knoblauch, Wufan Zhao, Filip Biljecki, Yong Xue and Wei Huang},
-     year={2025},
-     eprint={},
-     archivePrefix={arXiv},
-     primaryClass={cs.CV},
-     url={},
+@article{li2026ProbGLC,
+  title={Towards generative location awareness for disaster response: A probabilistic cross-view geolocalization approach},
+  author={Li, Hao and Deuser, Fabian and Yin, Wenping and Knoblauch, Steffen and Zhao, Wufan and Biljecki, Filip and Xue, Yong and Huang, Wei},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={237},
+  pages={130--145},
+  year={2026},
+  publisher={Elsevier}
 }
 ```
 Please go to [Dr. Hao Li's Homepage](https://bobleegogogo.github.io/) for more information.
